@@ -61,7 +61,7 @@ def generate_word():
     card_canvas.itemconfig(lang_text, text=f"{LEARNING_LANGUAGE}", fill="black")
     card_canvas.itemconfig(word_text, text=f"{language_word}", fill="black")
 
-    timer = window.after(3000, flip_card)
+    timer = window.after(6000, flip_card)
 
 
 # --------------------------------- UI SETUP ------------------------------- #
@@ -92,7 +92,7 @@ wrong_button = Button(image=wrong_image, highlightthickness=0, command=save_data
 wrong_button.grid(row=1, column=0)
 
 # Set the timer to flip the card.
-timer = window.after(3000, flip_card)
+timer = window.after(6000, flip_card)
 
 # Generate a word
 generate_word()

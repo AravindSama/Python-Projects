@@ -34,7 +34,6 @@ i,I
 ద్వారా,By
 పొందండి,Get
 ఆమె,She
-నా,My
 చెయ్యవచ్చు,Can
 వంటి,Like
 తెలుసు,Know
@@ -106,7 +105,6 @@ who,who
 చాలా,Very
 ఆమె,She
 అవసరం,Need
-తిరిగి,Back
 అక్కడ,There
 ఉండాలి,To be
 కూడా,Also
@@ -145,7 +143,6 @@ who,who
 ఎప్పుడు,When
 వంటి,Like
 పాఠశాల,School
-రాష్ట్రం,State
 చాలా,Very
 మాట్లాడండి,Speak.
 బయటకు,Out
@@ -164,7 +161,6 @@ who,who
 మూడు,Three
 అధిక,High
 ప్రతి,Every
-మరొకటి,Another one
 అవుతాయి,Will be
 అత్యంత,Most
 మధ్య,Middle
@@ -222,7 +218,6 @@ who,who
 తరువాత,Later
 నగరం,City
 కంపెనీ,Company
-కథ,Story
 నేడు,Today
 ఉద్యోగం,Job
 కదలిక,Movement
@@ -338,7 +333,6 @@ who,who
 క్రితం,ago
 సెట్,Set
 నలుపు,Black
-సభ్యుడు,Member
 సంఘం,Community
 ఒకసారి,Once
 సామాజిక,Social
@@ -368,7 +362,6 @@ who,who
 మధ్య,Middle
 ముఖం,Face
 ప్రజా,Public
-చనిపోతారు,Will die.
 ఆహారం,Food
 లేకపోతే,Otherwise
 చరిత్ర,History
@@ -513,7 +506,6 @@ who,who
 మిలియన్,Million
 తమను తాము,Themselves
 రికార్డు,Record
-ముఖ్యంగా,Especially
 తేడా,Difference
 కాంతి,Light
 అభివృద్ధి,Development
@@ -580,7 +572,6 @@ who,who
 ముక్క,Piece
 కాగితం,Paper
 శక్తి,Power
-వ్యక్తిగత,Personal
 కట్టడం,Building
 సైనిక,Military
 తెరవండి,Open
@@ -603,7 +594,6 @@ who,who
 రంగు,Color
 కవర్,Cover
 వర్ణించండి,Describe
-అంచనా,Estimate
 ఎంపిక,Choice
 మూలం,Source
 అమ్మ,Mom
@@ -736,7 +726,6 @@ who,who
 పేదవాడు,Poor man
 ప్రతి,Every
 సమాధానం,Answer
-ప్రకృతి,Nature
 పరిపాలన,Administration
 సాధారణ,Simple
 సంఖ్య,Number
@@ -830,7 +819,6 @@ who,who
 దావా,Claim
 సమాధానం,Answer
 నిరూపించండి,Prove it.
-క్రమబద్ధీకరించు,Sort
 చాలు,Enough
 పరిమాణం,Size
 ఎవరైనా,Someone
@@ -877,7 +865,6 @@ who,who
 సిద్ధం,Prepare
 నెట్వర్క్,Network
 భారీ,Huge
-విజయం,Success
 జిల్లా,District
 కప్పు,Cup
 పేరు,Name
@@ -1108,7 +1095,6 @@ et,and
 పాఠకుడు,Reader
 శైలి,Style
 ద్వారా,By
-మార్చ్,March
 యంత్రం,Machine
 నవంబర్,November
 తరం,Generation
@@ -1700,7 +1686,6 @@ et,and
 పర్యటన,Tour
 ఫ్రెంచ్,French
 కలపండి,Mix
-చంద్రుడు,Moon
 విచారంగా,Sad
 చిరునామా,Address
 డిసెంబర్,December
@@ -1738,14 +1723,11 @@ et,and
 ఆదాయం,Income
 విస్తరించండి,Expand
 అధినేత,Leader
-ధోరణి,Trend
-రింగ్,Ring
 పునరావృతం,Repetition
 ఊపిరి,Breath
 అంగుళం,Inch
 మెడ,Neck
 కోర్,Core
-భయంకరమైన,Terrible
 బిలియన్,Billion
 సాపేక్షంగా,Relatively
 క్లిష్టమైన,Complex
@@ -1828,7 +1810,6 @@ et,and
 ఉపయోగకరమైన,Useful
 జేబులో,In the pocket
 డిజిటల్,Digital
-పుష్కలంగా,Plenty
 పూర్తిగా,Completely
 భయం,Fear
 స్థోమత,Affordability
@@ -1878,7 +1859,6 @@ et,and
 సముద్ర,Sea
 గుర్తించబడలేదు,Not recognized
 హోస్ట్,Host
-మంజూరు,Grant
 పరిస్థితి,Situation
 ఆలస్యం,Delay
 బాస్,Boss
@@ -1957,7 +1937,6 @@ et,and
 మార్పు,Change
 సామర్థ్యం,Ability
 దోషి,Guilty
-హెచ్చరిస్తారు,Warn
 పలుకుబడి,Reputation
 బలహీనమైన,Weak
 తప్ప,Except
@@ -2026,7 +2005,6 @@ et,and
 నర్సు,Nurse
 ప్రశ్న,Question
 దీర్ఘకాలిక,Long-term
-జన్యువు,Gene
 ప్యాకేజీ,Package
 అసహజ,Unnatural
 కష్టం,Difficult
@@ -2230,7 +2208,6 @@ vs,vs
 బైబిల్,Bible
 రాణి,Queen
 విభజించు,Divide
-ఖర్చు,Cost
 క్రీమ్,Cream
 బహిరంగపరచడం,Disclosure
 ప్రాధాన్యత,Priority
@@ -2396,7 +2373,6 @@ vs,vs
 కింద,Under
 ప్రయాణీకుడు,Passenger
 వైద్యుడు,Doctor
-ఉన్నత విద్యావంతుడు,Highly educated
 పదునైన,Sharp
 పదార్ధం,Substance
 వాతావరణం,Weather
@@ -2617,7 +2593,6 @@ dna,DNA
 శిఖరం,Peak
 కోపం,Anger
 బూట్,Boot
-నాటకీయమైన,Dramatic
 తోటివాడు,Fellow
 మెరుగుపరుస్తాయి,Improve
 గణితం,Mathematics
@@ -2692,7 +2667,6 @@ mm-hmm,mm-hmm
 క్రమశిక్షణ,Discipline
 చర్చలు,Discussions
 తిట్టు,Damn it.
-వెన్న,Butter
 ఎడారి,Desert
 సంక్లిష్టమైనది,Complicated
 బహుమతి,Gift
@@ -2799,7 +2773,6 @@ mm-hmm,mm-hmm
 పరిణామం చెందుతాయి,Evolve
 కాదు,No
 ఖచ్చితమైన,Accurate
-వెండి,Silver
 సెంటు,Cent
 సార్వత్రిక,Universal
 యువకుడు,Young man
@@ -3091,7 +3064,6 @@ pc,pc
 వాసన,Smell
 నష్టం,Loss
 వేడుక,Ceremony
-క్లూ,Clue
 మార్గదర్శకం,Guide
 సౌకర్యం,Facility
 సమీపంలో,Nearby
@@ -3154,7 +3126,6 @@ pc,pc
 నిపుణుడు,Expert
 లేదు,No
 తెలుపు,White
-పాన్,Pan
 పంపిణీ,Distribution
 వెర్రి,Crazy
 డెక్,Deck
@@ -3232,7 +3203,6 @@ pc,pc
 తీరని,Desperate
 దూరమైన,Distant
 ప్రాధాన్యత,Priority
-రాజకీయంగా,Politically
 అభిప్రాయం,Feedback
 ఆరోగ్య సంరక్షణ,Healthcare
 నేరస్థుడు,Criminal
@@ -3407,7 +3377,6 @@ iphone,iPhone
 దానంతట అదే,That's it.
 మంజూరు,Grant
 కిరాణా,Groceries
-ప్రధాన కార్యాలయం,Headquarters
 చీల్చివేయు,Rip off
 ర్యాంక్,Rank
 నీడ,Shadow
@@ -3552,12 +3521,10 @@ iphone,iPhone
 డేరా,Tent
 రిసీవర్,Receiver
 హోరిజోన్,Horizon
-నిర్ధారణ,Confirmation
 గణనీయమైన,Substantial
 సువార్త,Gospel
 స్వయంచాలకంగా,Automatically
 పోరాడుతున్నారు,Fighting
-స్ట్రోక్,Stroke
 సంచరించు,Wander
 బాతు,Duck
 ధాన్యం,Grain
@@ -3594,7 +3561,6 @@ cd,cd
 ప్రేరేపిస్తాయి,Inspire
 గుణం,Quality
 వృద్ధుడు,Old man
-వర్చువల్,Virtual
 కనీస,Minimum
 బలహీనత,Weakness
 ప్రగతిశీల,Progressive
@@ -3926,7 +3892,6 @@ cd,cd
 నిరసన,Protest
 వర్తకం,Trade
 దయచేసి,Please
-అంగీకారం,Acceptance
 ద్యోతకం,Revelation
 మార్చ్,March
 సూచిక,Index
@@ -4080,7 +4045,6 @@ cd,cd
 నిషేదించుట,Prohibition
 స్థిరమైన,Stable
 బొడ్డు,Belly
-బ్యాంకింగ్,Banking
 గాడిద,Donkey
 జర్నలిజం,Journalism
 ఫ్లాష్,Flash
@@ -4196,7 +4160,6 @@ cd,cd
 మట్టి,Clay
 స్కాన్ చేయండి,Scan
 రిమైండర్,Reminder
-ఆమెది,Hers
 బానిసత్వం,Slavery
 సూపర్వైజర్,Supervisor
 పరిమాణం,Size
@@ -4510,7 +4473,6 @@ cd,cd
 సహకారి,Collaborator
 సహకరించిన,Collaborated
 డిస్క్,Disk
-సంకోచించండి,Feel free.
 సంబంధించి,Regarding
 నేరం,Crime
 దోపిడీ,Robbery
@@ -4615,7 +4577,6 @@ mmm,mmm
 సాల్మన్ చేప,Salmon
 జనాభా గణన,Census
 ఎంచుకోండి,Choose
-సాఫల్యం,Achievement
 మనస్సాక్షి,Conscience
 అదృష్టవశాత్తూ,Fortunately
 కనిష్ట,Minimum
