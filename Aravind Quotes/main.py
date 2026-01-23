@@ -6,7 +6,7 @@ import random
 
 
 def get_quote():
-    word_file = pandas.read_csv(f"AravindQuotes2.csv")
+    word_file = pandas.read_csv(f"AravindQuotes.csv")
     word_dictionary = word_file.to_dict(orient="records")
     current_quote = random.choice(word_dictionary)
     canvas.itemconfig(quote_text, text=current_quote)
